@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![j-kon profile](https://github.com/j-kon)
