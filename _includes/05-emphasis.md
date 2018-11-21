@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*The best platform to bold text*
+__and to also bold text__
+
+**This text will be bold**
+__This will also be bold__
+
+_You can **italic** and __bold__ at a time._
